@@ -20,10 +20,4 @@ This is a dynamic and interactive **Gym Website** built using **HTML**, **CSS**,
 2. Navigate to the **BMI Calculator** page to calculate your BMI by entering height and weight values.
 3. Go to the **Contact Us** section and fill out the form with your name and phone number. JavaScript will validate your input before submission.
 
-## Project Setup
-1. Clone or download the repository.
-2. Open the `index.html` file in a browser to view the website.
 
----
-
-Let me know if you'd like this expanded further or modified!
