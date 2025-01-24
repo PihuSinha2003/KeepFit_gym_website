@@ -1,8 +1,4 @@
-Here's a brief README description for your gym website:
-
----
-
-# Gym Website
+#KeepFit
 
 This is a dynamic and interactive **Gym Website** built using **HTML**, **CSS**, and **JavaScript**. It provides a user-friendly platform for fitness enthusiasts to explore gym facilities, calculate their Body Mass Index (BMI), and get in touch with the gym easily.
 
